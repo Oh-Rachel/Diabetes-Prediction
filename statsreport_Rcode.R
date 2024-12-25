@@ -1,6 +1,5 @@
 set.seed(1101)
          
-setwd("C:/Users/ohkel/Documents/DSA1101/data files")
 data <- read.csv("diabetes_5050.csv")
 
 head(data)
